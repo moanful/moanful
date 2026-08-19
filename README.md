@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **moanful/moanful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <samp>
+    <a href="https://guns.lol/nfxw"><strong>social</strong></a> |
+    <a href="mailto:kiakiadokidoki@gmail.com"><strong>email</strong></a>
+  </samp>
+</p>
